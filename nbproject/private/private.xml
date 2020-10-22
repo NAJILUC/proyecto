@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/web/index.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/src/java/ModeloDAO/ProductoDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/web/vistas/tablaProductos.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/src/java/ModeloDAO/EmpresaDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/src/java/Interfaces/CRUD.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/web/vistas/agregarProducto.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/web/vistas/agregarEmpresa.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/web/vistas/single.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/src/java/Modelo/Producto.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/src/java/Modelo/Categoria.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/src/java/Modelo/Empresa.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/src/java/Modelo/Marca.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto/web/vistas/listar.jsp</file>
+        </group>
+    </open-files>
+</project-private>

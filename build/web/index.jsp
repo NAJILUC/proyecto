@@ -101,7 +101,7 @@
                        <li><a class="color1" href="Controlador?accion=empresa">Agregar Empresas</a></li>
                         <li><a class="color1" href="Controlador?accion=tabla">Lista de Productos</a></li>
                         <li><a type="button" class="color" data-toggle="modal" data-target="#exampleModal">
-  Launch demo modal
+  Contacto
 </a></li>
                       
 			
@@ -119,9 +119,9 @@
 							<img src="images/banner1.jpg" alt=""/> 
 						</div>
 						 <div class="slider-right">
-						    <h1>Classic</h1>
-						    <h2>White</h2>
-						    <p>Lorem ipsum dolor sit amet</p>
+						    <h1>Clasico</h1>
+						    <h2>Alto</h2>
+						    <p>Blanco con verde</p>
 						    <div class="btn"><a href="shop.html">Shop Now</a></div>
 						 </div>
 						 <div class="clear"></div>
@@ -133,9 +133,9 @@
 							<img src="images/banner2.jpg" alt=""/> 
 						</div>
 						 <div class="slider-right">
-						    <h1>Classic</h1>
-						    <h2>White</h2>
-						    <p>Lorem ipsum dolor sit amet</p>
+						    <h1>Clasico</h1>
+						    <h2>Bajo</h2>
+						    <p>Blanco con azul y negro</p>
 						    <div class="btn"><a href="shop.html">Shop Now</a></div>
 						 </div>
 						 <div class="clear"></div>
@@ -147,9 +147,9 @@
 							<img src="images/banner1.jpg" alt=""/> 
 						</div>
 						 <div class="slider-right">
-						    <h1>Classic</h1>
-						    <h2>White</h2>
-						    <p>Lorem ipsum dolor sit amet</p>
+						    <h1>Clasico</h1>
+						    <h2>Alto</h2>
+						    <p>Blanco con verde</p>
 						    <div class="btn"><a href="shop.html">Shop Now</a></div>
 						 </div>
 						 <div class="clear"></div>
@@ -161,9 +161,9 @@
 							<img src="images/banner2.jpg" alt=""/> 
 						</div>
 						 <div class="slider-right">
-						    <h1>Classic</h1>
-						    <h2>White</h2>
-						    <p>Lorem ipsum dolor sit amet</p>
+						    <h1>Clasico</h1>
+						    <h2>Bajo</h2>
+						    <p>Blanco con azul</p>
 						    <div class="btn"><a href="shop.html">Shop Now</a></div>
 						 </div>
 						 <div class="clear"></div>
@@ -175,9 +175,9 @@
 							<img src="images/banner1.jpg" alt=""/> 
 						</div>
 						 <div class="slider-right">
-						    <h1>Classic</h1>
-						    <h2>White</h2>
-						    <p>Lorem ipsum dolor sit amet</p>
+						    <h1>Clasico</h1>
+						    <h2>Alto</h2>
+						    <p>Blanco con verde</p>
 						    <div class="btn"><a href="shop.html">Shop Now</a></div>
 						 </div>
 						 <div class="clear"></div>
@@ -239,27 +239,27 @@
 </div>
              	  <div class="content-top">
              		<div class="lsidebar span_1_of_c1">
-					  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing</p>
+					  <p>Para mayor informacion, aca nuestras redes:</p>
 					</div>
 					<div class="cont span_2_of_c1">
 					  <div class="social">	
 					     <ul>	
-						  <li class="facebook"><a href="#"><span> </span></a><div class="radius"> <img src="images/radius.png"><a href="#"> </a></div><div class="border hide"><p class="num">1.51K</p></div></li>
+						  <li class="facebook"><a href="https://web.facebook.com/adidasCO/?brand_redir=182162001806727"><span> </span></a><div class="radius"> <img src="images/radius.png"><a href="#"> </a></div><div class="border hide"><p class="num">Facebook</p></div></li>
 						 </ul>
 			   		   </div>
 					   <div class="social">	
 						   <ul>	
-							  <li class="twitter"><a href="#"><span> </span></a><div class="radius"> <img src="images/radius.png"></div><div class="border hide"><p class="num">1.51K</p></div></li>
+							  <li class="twitter"><a href="https://twitter.com/adidas"><span> </span></a><div class="radius"> <img src="images/radius.png"></div><div class="border hide"><p class="num">Twitter</p></div></li>
 						  </ul>
 			     		</div>
 						 <div class="social">	
 						   <ul>	
-							  <li class="google"><a href="#"><span> </span></a><div class="radius"> <img src="images/radius.png"></div><div class="border hide"><p class="num">1.51K</p></div></li>
+							  <li class="google"><a href="https://www.google.com/search?q=adidas&sxsrf=ALeKk03T6a6FyEVSDVs1VMkKkqpIwK-NXw:1603383813424&source=lnms&tbm=nws&sa=X&ved=2ahUKEwj0xoyVzsjsAhWtslkKHfM0D1wQ_AUoBHoECAwQBg&biw=1366&bih=699"><span> </span></a><div class="radius"> <img src="images/radius.png"></div><div class="border hide"><p class="num">Noticias</p></div></li>
 						   </ul>
 			    		 </div>
 						 <div class="social">	
 						   <ul>	
-							  <li class="dot"><a href="#"><span> </span></a><div class="radius"> <img src="images/radius.png"></div><div class="border hide"><p class="num">1.51K</p></div></li>
+							  <li class="dot"><a href="https://www.facebook.com/profile.php"><span> </span></a><div class="radius"> <img src="images/radius.png"></div><div class="border hide"><p class="num">Tu perfil</p></div></li>
 						  </ul>
 			     		</div>
 						<div class="clear"> </div>
@@ -270,8 +270,8 @@
                     <div class="content">
                        
                          <div class="toogle">
-     	<h3 class="m_3">Quienes somos</h3>
-     	<p class="m_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+     	<h3 class="m_3">Quienes somos </h3>
+     	<p class="m_text">Adidas diseña ropa deportiva para atletas de todo tipo. Creadores que disfrutan de cambiar las reglas del juego. Desafiar las convenciones. Romper las normas y definir nuevas. Y volverlas a romper. Confeccionamos la ropa que visten equipos y jugadores individuales en preparación para el partido. Para que no pierdan la concentración. Diseñamos indumentaria deportiva para que llegues a la meta. Para que ganes el partido. Somos la tienda especializada en ropa deportiva para mujeres, con tops deportivos y licras diseñados con un objetivo en mente. Para deportes de impacto bajo, medio o alto. Diseñamos, innovamos e iteramos. Ponemos a prueba nuevas tecnologías. En el campo, en la cancha, en la pista, en la piscina. La ropa deportiva retro inspira nuevos elementos esenciales de la ropa urbana. Como los NMD y las sudaderas Firebird. Los modelos deportivos clásicos vuelven a la vida. Como los Stan Smith y los Superstar. Ahora en todas las calles y en los escenarios más destacados.</p>
      </div>
                         <div class="clear"></div>
                                     <div class="toogle">
